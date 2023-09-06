@@ -17,3 +17,6 @@
     * [Backing up (and restore) postgres](Linux/Databases/Backing-up-postgres-docker.md)
     * [Backup postgres container](Linux/Databases/backup-postgres-container.md)
     * [MySQL Basics](Linux/Databases/mysql-basics.md)
+  * [Microsoft](Microsoft/README.md)
+    * [Windows](Microsoft/Windows/README.md)
+      * [User hacks](Microsoft/Windows/user-hack.md)
